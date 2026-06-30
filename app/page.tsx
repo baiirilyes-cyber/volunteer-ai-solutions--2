@@ -1,4 +1,4 @@
-import DemoChat from "@/components/DemoChat";
+import DemoChat from "../components/DemoChat";
 
 export default function Home() {
   return (
